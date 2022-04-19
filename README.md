@@ -6,7 +6,7 @@ OS:Linux
 
 ```
 GitHub Link:
-https://github.com/Mitanshk01/ISS_Assignment_1
+https://github.com/Mitanshk01/ISS_Assignment1_Mitansh
 ```
 
 ### **Q1:**
