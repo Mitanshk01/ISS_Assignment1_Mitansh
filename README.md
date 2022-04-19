@@ -12,43 +12,34 @@ https://github.com/Mitanshk01/ISS_Assignment1_Mitansh
 ### **Q1:**
 
 ```
-$ chmod +x Q1a.sh
-$ ./Q1a.sh
-
-$ chmod +x Q1b.sh
-$ ./Q1b.sh
+$ chmod +x q1.sh
+$ ./q1.sh
 ```
 
 ### **Q2:**
 
 ```
-$ chmod +x Q2.sh
-$ ./Q2.sh
+$ chmod +x q2.sh
+$ ./q2.sh
 ```
 
 ### **Q3:**
 
 ```
-$ chmod +x Q3.sh
-$ ./Q3.sh
+$ chmod +x q3.sh
+$ ./q3.sh
 ```
 
 ### **Q4:**
 
 ```
-$ chmod +x Q4.sh
-$ ./Q4.sh
+$ chmod +x q4.sh
+$ ./q4.sh
 ```
 
 ### **Q5:**
 
 ```
-$ chmod +x Q5a.sh
-$ ./Q5a.sh
-
-$ chmod +x Q5b.sh
-$ ./Q5b.sh
-
-$ chmod +x Q5c.sh
-$ ./Q5c.sh
+$ chmod +x q5.sh
+$ ./q5.sh
 ```
